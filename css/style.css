@@ -1,0 +1,81 @@
+header {
+    text-align: center;
+    background-color: #2C3E50;
+    color: #fff;
+    padding: 20px 12px;
+
+}
+
+header li {
+    display: inline;
+    margin-right: 30px;
+
+}
+
+header a {
+    color: #fff;
+    text-decoration: none;
+}
+
+header a:hover {
+    color: #21A592;
+    text-decoration: underline;
+}
+
+#sobre img {
+    padding: 20px 12px;
+    margin: auto;
+    display: block;
+    border-radius: 50%;
+    border: solid 5px #21A592;
+}
+
+footer {
+    text-align: center;
+    background-color: #2C3E50;
+    color: #fff;
+    padding: 20px 12px;
+
+}
+
+h2 {
+    color: #21A592;
+    border-bottom: solid 2px #21A592;
+    padding-bottom: 10px;
+}
+
+h3 {
+    color: rgb(46, 171, 255);
+}
+
+table {
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+
+}
+
+td {
+    border: 3px solid #ddd;
+    padding: 10px;
+}
+
+thead {
+    background-color: #2980b9;
+    color: #fff;
+}
+
+#container {
+    max-width: 1200px;
+    margin: auto;
+}
+
+#competentes li {
+    list-style-type: square;
+}
+
+
+footer a {
+    color: #ddd;
+    text-decoration: none;
+}
